@@ -15,4 +15,8 @@ bypass the need for VS IDE and running packages and building and running
 - dotnet -h           //lists all the commands that can be run from dotnetclitool
 - dotnet new -h      //shows all the things one can do with the new commandline
 - dotnet new --list //list all what can be done with new .. like add page, config file, solution, project type,buildtargets,webconfig,test related etc
+- git add .        // add all the files to for stage
+- git commit -m "intital comment for checkin"
+- git push 
+- dotnet new sln 
 - 
